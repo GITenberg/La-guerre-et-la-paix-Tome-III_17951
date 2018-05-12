@@ -1,0 +1,39 @@
+_repo: La-guerre-et-la-paix-Tome-III_17951
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Tolstoy, Leo, graf
+    aliases:
+    - Tolstoï, Léon
+    - Tolstoi, Leo
+    - Tolstoy, Lev N.
+    - Tolstoy, Graf Leo
+    - Толстой, Лев Николаевич
+    birthdate: 1828
+    deathdate: 1910
+    gutenberg_agent_id: '136'
+    url: http://www.gutenberg.org/2009/agents/136
+    wikipedia: http://en.wikipedia.org/wiki/Leo_Tolstoy
+description: ''
+gutenberg_bookshelf:
+- Historical Fiction
+- FR Littérature
+gutenberg_issued: '2006-03-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17951'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction'
+- !lcsh 'Russia -- History -- Alexander I, 1801-1825 -- Fiction'
+- !lcc 'PG'
+- !lcsh 'War stories'
+- !lcsh 'Napoleonic Wars, 1800-1815 -- Campaigns -- Russia -- Fiction'
+title: La guerre et la paix, Tome III
+url: http://www.gutenberg.org/ebooks/17951
